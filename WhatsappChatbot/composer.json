@@ -1,0 +1,7 @@
+{
+  "name": "mustafa/whatsapp-bot",
+  "description": "WhatsApp complaint chatbot",
+  "require": {
+    "php": ">=8.0"
+  }
+}
